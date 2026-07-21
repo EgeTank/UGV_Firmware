@@ -1,0 +1,8 @@
+../Core/Src/motor_control.c:12:6:motor_init	1
+../Core/Src/motor_control.c:20:17:speed_to_duty_float	4
+../Core/Src/motor_control.c:37:6:motor_apply_drive_new	3
+../Core/Src/motor_control.c:55:5:read_safety_status	1
+../Core/Src/motor_control.c:60:6:motor_apply_fail_safe	2
+../Core/Src/motor_control.c:68:6:motor_set_target_speed	1
+../Core/Src/motor_control.c:73:7:motor_get_target_speed	1
+../Core/Src/motor_control.c:78:6:motor_set_output	6

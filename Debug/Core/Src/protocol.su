@@ -1,0 +1,10 @@
+../Core/Src/protocol.c:4:13:proto_write_u32_le	16	static
+../Core/Src/protocol.c:12:17:proto_read_u32_le	16	static
+../Core/Src/protocol.c:18:13:proto_write_f32_le	24	static
+../Core/Src/protocol.c:25:14:proto_read_f32_le	24	static
+../Core/Src/protocol.c:33:9:proto_crc8	24	static
+../Core/Src/protocol.c:44:6:proto_pack_command	32	static
+../Core/Src/protocol.c:57:5:proto_unpack_command	24	static
+../Core/Src/protocol.c:72:6:proto_pack_report	32	static
+../Core/Src/protocol.c:86:5:proto_unpack_report	24	static
+../Core/Src/protocol.c:101:6:proto_pack_bms_report	32	static

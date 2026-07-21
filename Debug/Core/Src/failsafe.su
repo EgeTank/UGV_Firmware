@@ -1,0 +1,7 @@
+../Core/Src/failsafe.c:40:13:apply_brakes_and_stop	8	static
+../Core/Src/failsafe.c:50:6:failsafe_init	8	static
+../Core/Src/failsafe.c:65:6:failsafe_kick	8	static
+../Core/Src/failsafe.c:84:6:failsafe_force	104	static,ignoring_inline_asm
+../Core/Src/failsafe.c:151:6:failsafe_check	16	static
+../Core/Src/failsafe.c:165:9:failsafe_is_active	4	static
+../Core/Src/failsafe.c:170:9:failsafe_is_hard_locked	4	static

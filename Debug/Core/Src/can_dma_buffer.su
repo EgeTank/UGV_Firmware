@@ -1,0 +1,9 @@
+../Core/Src/can_dma_buffer.c:41:16:dlc_to_bytes	16	static
+../Core/Src/can_dma_buffer.c:49:6:can_dma_buffer_init	16	static
+../Core/Src/can_dma_buffer.c:62:6:can_dma_buffer_push_from_isr	96	static,ignoring_inline_asm
+../Core/Src/can_dma_buffer.c:140:6:HAL_MDMA_XferCpltCallback	40	static,ignoring_inline_asm
+../Core/Src/can_dma_buffer.c:163:6:HAL_MDMA_XferErrorCallback	24	static
+../Core/Src/can_dma_buffer.c:183:9:can_dma_buffer_pop	32	static,ignoring_inline_asm
+../Core/Src/can_dma_buffer.c:211:9:can_dma_buffer_is_empty	4	static
+../Core/Src/can_dma_buffer.c:216:10:can_dma_buffer_get_overrun_count	4	static
+../Core/Src/can_dma_buffer.c:221:6:can_dma_buffer_reset_stats	4	static

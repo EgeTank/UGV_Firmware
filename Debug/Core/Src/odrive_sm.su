@@ -1,0 +1,6 @@
+../Core/Src/odrive_sm.c:10:13:send_axis_state	24	static
+../Core/Src/odrive_sm.c:24:6:odrive_sm_init	16	static
+../Core/Src/odrive_sm.c:36:6:odrive_sm_update	24	static
+../Core/Src/odrive_sm.c:142:9:odrive_sm_is_closed_loop	16	static
+../Core/Src/odrive_sm.c:147:10:odrive_sm_get_error_count	16	static
+../Core/Src/odrive_sm.c:152:6:odrive_sm_force_idle	16	static

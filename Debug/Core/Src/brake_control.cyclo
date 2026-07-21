@@ -1,0 +1,4 @@
+../Core/Src/brake_control.c:10:6:brake_init	1
+../Core/Src/brake_control.c:16:6:brake_apply	1
+../Core/Src/brake_control.c:22:6:brake_release	1
+../Core/Src/brake_control.c:28:9:brake_is_applied	1

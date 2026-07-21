@@ -1,0 +1,9 @@
+../Core/Src/current_limiter.c:6:14:clamp	3
+../Core/Src/current_limiter.c:16:14:lerp	3
+../Core/Src/current_limiter.c:26:6:current_limiter_init	1
+../Core/Src/current_limiter.c:47:6:current_limiter_set_override	1
+../Core/Src/current_limiter.c:55:6:current_limiter_reset	1
+../Core/Src/current_limiter.c:64:6:current_limiter_update	5
+../Core/Src/current_limiter.c:120:7:current_limiter_apply	5
+../Core/Src/current_limiter.c:151:7:current_limiter_get_limit	2
+../Core/Src/current_limiter.c:156:10:current_limiter_get_hit_count	1

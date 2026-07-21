@@ -1,0 +1,4 @@
+../Core/Src/weapon_control.c:8:6:weapon_init	8	static
+../Core/Src/weapon_control.c:21:6:weapon_laser_set	16	static
+../Core/Src/weapon_control.c:31:6:weapon_fire_trigger_isr	8	static
+../Core/Src/weapon_control.c:41:6:weapon_task_check	8	static

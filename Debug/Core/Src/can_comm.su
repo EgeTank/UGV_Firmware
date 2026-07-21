@@ -1,0 +1,9 @@
+../Core/Src/can_comm.c:32:10:get_fdcan_dlc	16	static
+../Core/Src/can_comm.c:45:5:can_send_Nbyte	64	static
+../Core/Src/can_comm.c:85:5:can_send_report	40	static
+../Core/Src/can_comm.c:92:5:can_send_bms_report	40	static
+../Core/Src/can_comm.c:99:6:can_init	104	static
+../Core/Src/can_comm.c:142:6:HAL_FDCAN_RxFifo0Callback	16	static
+../Core/Src/can_comm.c:156:10:can_get_tx_error_count	4	static
+../Core/Src/can_comm.c:157:10:can_get_rx_error_count	4	static
+../Core/Src/can_comm.c:158:10:can_get_protocol_error_count	4	static

@@ -1,0 +1,5 @@
+../Core/Src/blackbox.c:5:16:calculate_checksum	2
+../Core/Src/blackbox.c:15:6:blackbox_init	2
+../Core/Src/blackbox.c:30:6:blackbox_log_step	4
+../Core/Src/blackbox.c:47:6:blackbox_lock_and_save_crash	2
+../Core/Src/blackbox.c:55:9:blackbox_read_and_clear	4

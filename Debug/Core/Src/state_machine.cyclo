@@ -1,0 +1,3 @@
+../Core/Src/state_machine.c:8:6:state_machine_init	1
+../Core/Src/state_machine.c:13:17:state_machine_get	2
+../Core/Src/state_machine.c:25:6:state_machine_set	4

@@ -1,0 +1,6 @@
+../Core/Src/heartbeat.c:19:17:read_u32_le	16	static
+../Core/Src/heartbeat.c:30:6:heartbeat_init	16	static
+../Core/Src/heartbeat.c:45:6:heartbeat_kick	24	static
+../Core/Src/heartbeat.c:68:6:heartbeat_check	24	static
+../Core/Src/heartbeat.c:90:9:heartbeat_is_alive	16	static
+../Core/Src/heartbeat.c:95:10:heartbeat_get_timeout_count	16	static

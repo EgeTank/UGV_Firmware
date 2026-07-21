@@ -1,0 +1,7 @@
+../Core/Src/bms_emus_can.c:4:6:BMS_Init	2
+../Core/Src/bms_emus_can.c:16:6:BMS_ParseCanMessage	13
+../Core/Src/bms_emus_can.c:52:7:BMS_GetAvgCellVoltage	3
+../Core/Src/bms_emus_can.c:61:7:BMS_GetMinCellVoltage	4
+../Core/Src/bms_emus_can.c:70:7:BMS_GetMaxCellVoltage	4
+../Core/Src/bms_emus_can.c:79:7:BMS_GetMaxCellTemp	3
+../Core/Src/bms_emus_can.c:87:7:BMS_GetMinCellTemp	3

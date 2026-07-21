@@ -1,0 +1,4 @@
+../Core/Src/brake_control.c:10:6:brake_init	8	static
+../Core/Src/brake_control.c:16:6:brake_apply	8	static
+../Core/Src/brake_control.c:22:6:brake_release	8	static
+../Core/Src/brake_control.c:28:9:brake_is_applied	4	static

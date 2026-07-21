@@ -1,0 +1,8 @@
+../Core/Src/vel_profile.c:21:14:clamp	24	static
+../Core/Src/vel_profile.c:31:14:fabsf_local	16	static
+../Core/Src/vel_profile.c:39:6:vel_profile_init	32	static
+../Core/Src/vel_profile.c:57:6:vel_profile_reset	16	static
+../Core/Src/vel_profile.c:66:9:vel_profile_is_settled	16	static
+../Core/Src/vel_profile.c:84:14:trapezoid_step	48	static
+../Core/Src/vel_profile.c:146:14:scurve_step	56	static
+../Core/Src/vel_profile.c:205:7:vel_profile_step	24	static
